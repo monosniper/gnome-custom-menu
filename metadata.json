@@ -1,0 +1,9 @@
+{
+    "uuid": "custommenu@ravilto",
+    "name": "Custom menu",
+    "description": "Add custom menu to top bar",
+    "shell-version": [ "46" ],
+    "url": "https://github.com/monosniper/gnome-custom-menu",
+    "version": 1,
+    "settings-schema": "org.gnome.shell.extensions.custommenu"
+}
